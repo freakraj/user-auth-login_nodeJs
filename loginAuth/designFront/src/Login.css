@@ -1,0 +1,141 @@
+/* .google__signup_btn{
+    border: 1px solid #E7E7E7;
+    margin-top: 30px;
+    height: 48px;
+    width: 100%;
+    border-radius: 37px;
+    text-align: center;
+    padding: 10px;
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+
+} */
+/* .google_image{
+    width: 18px;
+    height: 18px;
+} */
+/* .google__signup_btn p{
+    margin-right: 142px;
+    color: #969696;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 15px;
+} */
+/* .facebook__signup_btn{
+    border: 1px solid #E7E7E7;
+    margin-top: 30px;
+    height: 48px;
+    width: 100%;
+    border-radius: 37px;
+    text-align: center;
+    padding: 10px;
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+} */
+/* .facebook_image{
+    width: 18px;
+    height: 18px;
+} */
+/* .facebook__signup_btn p{
+    margin-right: 134px;
+    color: #969696;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 15px;
+} */
+.login__button{
+    background: linear-gradient(91.56deg, #B998FF 0%, #A2CFFF 104.01%);
+    border-radius: 88px;
+    height: 48px;
+    border-radius: 30px !important;
+    margin-top: 20px;
+}
+.divider__or{
+    text-align: center;
+    margin-top: 15px;
+    color: #969696;
+}
+.email__label{
+    color: #969696;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+}
+.password__label{
+    color: #969696;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+}
+.confirm-password__label{
+    color: #969696;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+}
+.email__input__text{
+    height: 44px;
+    border-radius: 49px !important;
+}
+.password__input_text{
+    height: 44px;
+    border-radius: 49px !important;
+}
+.confirm-password__input_text{
+    height: 44px;
+    border-radius: 49px !important;
+}
+.login_main_content{
+    width: 493px;
+    height: 580px;
+    /* height: 530px; */
+    border-radius: 15px 15px 0px 0px;
+}
+#light{
+    background-color: #fff !important;
+}
+#dark{
+    background-color: #46045e !important;
+    
+}
+#dark >.loginMainCont >.loginHead> h1 {
+    color:white;
+}
+#dark > h5{
+    color:white;
+}
+/* 
+#light .darkmodeDiv{
+    background-color: green !important;
+}
+#dark .darkmodeDiv{
+    background-color: blue !important;
+} */
+
+/* .switcherDiv{
+    margin-top:34rem;
+    position: absolute;
+} */
+.darkmodeDiv{
+    width: 28%;
+}
+.alreadyAccountLink{
+    text-decoration: none !important;
+}
+.loginMainCont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .login_main_content{
+        width: 340px;
+        border-radius: 12px 12px 12px 12px;
+        height: 560px;
+    
+    }
+}

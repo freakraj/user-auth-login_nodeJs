@@ -1,0 +1,48 @@
+.name__input__text{
+    height: 44px;
+    border-radius: 49px !important;
+}
+.name__label{
+    color: #969696;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+}
+.alreadyAccountLink{
+    text-decoration: none !important;
+}
+.darkmodeDivSignup{
+    width: 34%;
+    margin-top: 68px;
+}
+#light{
+    background-color: #fff !important;
+}
+#dark{
+    background-color: #46045e !important;
+    
+}
+#dark > h1 {
+    color:white;
+}
+#dark > h5{
+    color:white;
+}
+.switcherDivSignup{
+    margin-top:45rem !important;
+    position: absolute;
+}
+
+/* styling for error or success message */
+.error-message{
+    font-size: 12px;
+    font-weight: 500;
+    color: red;
+    margin-top: 6px;
+}
+.success-message{
+  font-size: 12px;
+  font-weight: 500;
+  color:green;
+  margin-top: 6px;
+}

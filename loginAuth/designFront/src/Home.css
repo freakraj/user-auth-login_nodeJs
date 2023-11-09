@@ -1,0 +1,14 @@
+.mt-4{
+    margin-top: none !important;
+}
+.main__anno_classif__extrac{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    /* column-gap: 60px; */
+}
+.logoutMain{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
